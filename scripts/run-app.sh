@@ -1,0 +1,1 @@
+pipenv run python -m app.com.saraswati.www.src.hello_world -c ~/output/aphrodite -o ~/output/aphrodite -e dev
